@@ -1,4 +1,4 @@
-;;; anything-rdefs.el
+;;; anything-rdefs.el ---  search definion on ruby with anything
 
 ;; Copyright (C) 2011-2012 mori_dev
 
